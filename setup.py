@@ -10,7 +10,7 @@ from setuptools import setup
 from setuptools import Extension,find_packages
 from pybind11.setup_helpers import Pybind11Extension, build_ext
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 import os
 import sys
@@ -148,7 +148,7 @@ class CMakeBuild(build_ext):
 # module2 = Extension(module_name2, sources=module_sources2)
 
 setup(name='pyrgasp',
-      version='0.1',
+      version='0.2',
       description='The python version of rgasp and ppgasp',
       download_url = 'https://github.com/HaoLiHL/pyrgasp/archive/refs/tags/v_01.tar.gz', 
       url='https://github.com/HaoLiHL',
