@@ -2,7 +2,9 @@ Metadata-Version: 2.1
 Name: pyrgasp
 Version: 0.1
 Summary: The python version of rgasp and ppgasp
-Home-page: add later
+Home-page: https://github.com/HaoLiHL
+Download-URL: https://github.com/HaoLiHL/pyrgasp/archive/refs/tags/v_01.tar.gz
 Author: Hao Li
 Author-email: hao_li@ucsb.edu
 License: MIT
+License-File: LICENSE.txt

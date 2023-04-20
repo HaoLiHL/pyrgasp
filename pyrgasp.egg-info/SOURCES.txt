@@ -1,4 +1,6 @@
+LICENSE.txt
 README.md
+setup.cfg
 setup.py
 pyrgasp/__init__.py
 pyrgasp/functions.py
@@ -7,4 +9,5 @@ pyrgasp.egg-info/PKG-INFO
 pyrgasp.egg-info/SOURCES.txt
 pyrgasp.egg-info/dependency_links.txt
 pyrgasp.egg-info/not-zip-safe
+pyrgasp.egg-info/requires.txt
 pyrgasp.egg-info/top_level.txt
